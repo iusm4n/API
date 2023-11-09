@@ -1,5 +1,19 @@
 {
   "dependencies": {
-    "git": "^0.1.5"
-  }
+    "cors": "^2.8.5",
+    "git": "^0.1.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.4"
+  },
+  "name": "api",
+  "description": "https://iusm4n.github.io/API/ https://iusm4n.github.io/API/db.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
